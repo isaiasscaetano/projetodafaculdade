@@ -1,0 +1,140 @@
+.todoC{
+ background-image: url(../projeto/pexels-geepro-20036115.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;    
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+  background-attachment: fixed;
+}
+.todoF{
+  background-image: url(../projeto/jacopo-maiarelli--gOUx23DNks-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+  background-attachment: fixed;    
+}
+.todosA{
+  background-image: url(../projeto/nadine-primeau--ftWfohtjNw-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+  background-attachment: fixed; 
+}
+.vermelha{
+  background-color: #731d2a;
+  width: 1225px;
+  height: 430px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #730217;
+  color:#f4f6dc ;
+}
+.branco{
+background-color: #f2f2f9;
+  width: 1225px;
+  height: 370px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #e9ecf2;
+  color:#575859 ;
+}
+.peixes{
+    background-color: #0a579d;
+  width: 1225px;
+  height: 420px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #9cd1ea;
+  color: #51a1da ;
+}
+.mar{
+    background-color: #1be8ea;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #1dd0db;
+  color: #072669;
+}
+.Citricas{
+  background-color: #484e10;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #c1d92e;
+  color: #f9bb13;
+
+}
+.Tropicais{
+  background-color: #007eb0;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #12aacc;
+  color: #e4e6d6;
+}
+.Fvermelha{
+  background-color: #3f0614;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #c1040e;
+  color: #e38664;
+}
+.Caroço{
+  background-color: #0f2419;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #616b3f;
+  color: #cd9456;
+}
+.Secas{
+  background-color: #63610c;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #8ba610;
+  color: #c4b6b6;
+}
+.folha{
+  background-color: #023002;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #abc339;
+  color: #4a8522;
+}
+.raizes{
+  background-color: #3e591e;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #9cb675;
+  color: #419310;
+}
+.caule{
+  background-color: #103616;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #2c691d;
+  color: #dafb90;
+}
+.flor{
+  background-color: #244a32;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #558025;
+  color: #c9c85e;
+}
+.Legumes{
+  background-color: #718d1c;
+  width: 1225px;
+  height: 415px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px #c3dd23;
+  color: #ffff28;
+}
